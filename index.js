@@ -125,8 +125,8 @@ const pages = {
   home: () => getPageLayout(
     'Home', 
     `<section class="hero">
-        <h2>Welcome to the United Baptist Missionary Convention</h2>
-        <p>A fellowship of churches united in faith, love, and community transformation across the region.</p>
+        <h2>About UBMC:</h2>
+        <p>We are a network of like-minded and mission-driven individuals, churches, and organizations, headquartered in Baltimore, Maryland, working together to impact our state and beyond with the Good News Gospel of Jesus Christ.</p>
      </section>
      <main>
         <div class="grid">
@@ -135,12 +135,14 @@ const pages = {
                 <p>To support local ministries, encourage spiritual growth, and coordinate impactful missionary outreach across our member congregations.</p>
             </div>
             <div class="card">
-                <h3>Latest Updates</h3>
-                <p>Our updated multi-page gateway is officially configured and live. Browse our departments and auxiliaries using the updated menus above!</p>
+                <h3>Mailing Address</h3>
+                <p>PO Box 23742</p>
+                <p>Baltimore, MD 21203, USA</p>
             </div>
             <div class="card">
-                <h3>Get Involved</h3>
-                <p>Join us at our upcoming regional assemblies, state congress events, and auxilary department workshops throughout the year.</p>
+                <h3>Contact</h3>
+                <p>Phone: (410) 523-2950</p>
+                <p>Email: UBMCMD@gmail.com</p>
             </div>
         </div>
      </main>`, 
