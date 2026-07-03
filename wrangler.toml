@@ -3,9 +3,9 @@ main = "index.js"
 compatibility_date = "2026-07-02"
 
 [[routes]]
-pattern = "ubmcmd.com"
-custom_domain = true
+pattern = "ubmcmd.com/*"
+zone_name = "ubmcmd.com"
 
 [[routes]]
-pattern = "www.ubmcmd.com"
-custom_domain = true
+pattern = "www.ubmcmd.com/*"
+zone_name = "ubmcmd.com"
