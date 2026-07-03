@@ -1,3 +1,11 @@
 name = "ubmclive"
 main = "index.js"
 compatibility_date = "2026-07-02"
+
+[[routes]]
+pattern = "ubmcmd.com"
+custom_domain = true
+
+[[routes]]
+pattern = "www.ubmcmd.com"
+custom_domain = true
